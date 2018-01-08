@@ -3,7 +3,7 @@
 #define B_CLOCK  A1  // horloge
 #define B_RESET  A0  // reinitialisation
 #define B_RD     2   // lecture
-#define PL       A3  // stockage dans 74HCT126
+#define PL       A3  // stockage dans 74HCT165
 
 // MOSI : n/a
 // MISO : 12
